@@ -1,0 +1,15 @@
+/Users/G/Documents/School/C_Sharp/StudentManager/bin/Debug/net5.0/StudentManager.deps.json
+/Users/G/Documents/School/C_Sharp/StudentManager/bin/Debug/net5.0/StudentManager.runtimeconfig.json
+/Users/G/Documents/School/C_Sharp/StudentManager/bin/Debug/net5.0/StudentManager.runtimeconfig.dev.json
+/Users/G/Documents/School/C_Sharp/StudentManager/bin/Debug/net5.0/StudentManager.dll
+/Users/G/Documents/School/C_Sharp/StudentManager/bin/Debug/net5.0/ref/StudentManager.dll
+/Users/G/Documents/School/C_Sharp/StudentManager/bin/Debug/net5.0/StudentManager.pdb
+/Users/G/Documents/School/C_Sharp/StudentManager/obj/Debug/net5.0/StudentManager.csprojAssemblyReference.cache
+/Users/G/Documents/School/C_Sharp/StudentManager/obj/Debug/net5.0/StudentManager.GeneratedMSBuildEditorConfig.editorconfig
+/Users/G/Documents/School/C_Sharp/StudentManager/obj/Debug/net5.0/StudentManager.AssemblyInfoInputs.cache
+/Users/G/Documents/School/C_Sharp/StudentManager/obj/Debug/net5.0/StudentManager.AssemblyInfo.cs
+/Users/G/Documents/School/C_Sharp/StudentManager/obj/Debug/net5.0/StudentManager.csproj.CoreCompileInputs.cache
+/Users/G/Documents/School/C_Sharp/StudentManager/obj/Debug/net5.0/StudentManager.dll
+/Users/G/Documents/School/C_Sharp/StudentManager/obj/Debug/net5.0/ref/StudentManager.dll
+/Users/G/Documents/School/C_Sharp/StudentManager/obj/Debug/net5.0/StudentManager.pdb
+/Users/G/Documents/School/C_Sharp/StudentManager/obj/Debug/net5.0/StudentManager.genruntimeconfig.cache
